@@ -1,2 +1,3 @@
 # DelishAfrica
-App DelishAfrica service de commandes avec livraisons pour restaurants africains
+App DelishAfrica, un safari des cuisines africaines. Service de commandes avec livraisons, pour restaurants africains en principalement.
+
